@@ -1,0 +1,86 @@
+
+--2021-05-05 15:40:20--  (try: 3)  https://github.com/cusplibrary/cusplibrary/archive/refs/heads/develop.zip
+Connecting to github.com (github.com)|52.74.223.119|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop [following]
+--2021-05-05 15:40:20--  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Resolving codeload.github.com (codeload.github.com)... 13.229.189.0
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:42:33--  (try: 2)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:44:45--  (try: 3)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:46:59--  (try: 4)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:49:13--  (try: 5)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:51:29--  (try: 6)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:53:45--  (try: 7)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:56:01--  (try: 8)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 15:58:20--  (try: 9)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:00:38--  (try:10)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:02:58--  (try:11)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:05:17--  (try:12)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:07:37--  (try:13)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:09:56--  (try:14)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:12:15--  (try:15)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:14:34--  (try:16)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:16:54--  (try:17)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:19:13--  (try:18)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:21:32--  (try:19)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Retrying.
+
+--2021-05-05 16:23:51--  (try:20)  https://codeload.github.com/cusplibrary/cusplibrary/zip/refs/heads/develop
+Connecting to codeload.github.com (codeload.github.com)|13.229.189.0|:443... failed: Connection timed out.
+Giving up.
+

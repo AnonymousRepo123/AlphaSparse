@@ -1,0 +1,2 @@
+template.cu(19): warning #177-D: variable "warp_num" was declared but never referenced
+

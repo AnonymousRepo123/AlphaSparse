@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "get_matrix_feature_of_sym_UF_matrices.py", line 29, in <module>
+    assert(len(sys.argv) == 2)
+AssertionError

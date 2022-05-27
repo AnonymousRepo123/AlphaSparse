@@ -1,0 +1,19 @@
+{
+    "BRANCH_COMPRESS_MAX_SIZE": 5,
+    "DEFAULT_DEVICE_ID": 0,
+    "DEFAULT_THREAD_BLOCK_NUM": 120,
+    "DEFAULT_THREAD_NUM_IN_BLOCK": 512,
+    "FIXED_THREAD_COMBINE_SIZE": 32,
+    "FIXED_WARP_COMBINE_SIZE": 4,
+    "GFLOPS_UP_BOUND": 500,
+    "HALF_MAX_ROW_REDUCE_THREAD": 999998,
+    "KERNAL_REPEAT_TIME": 1200,
+    "MAX_ROW_REDUCE_THREAD": 999999,
+    "MAX_TBLOCK_NUM": 65535,
+    "MAX_THREAD_NUM_IN_BLOCK": 1024,
+    "PADDING_RATE_UP_BOUND": 4,
+    "ROOT_PATH_STR": "/home/duzhen/spmv_builder",
+    "SHARED_MEM_TOTAL_SIZE": 48000,
+    "SORT_THREAD_NUM": 1,
+    "spmv_header_file": "/home/duzhen/spmv_builder/spmv_header_top.code"
+}

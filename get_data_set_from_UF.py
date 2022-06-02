@@ -68,7 +68,6 @@ for matrix_result in result:
         with open(matrix_name_list_file_name, 'a+') as f:
             f.write(matrix_name+'\n')
     
-exit(-1)
 
 # 遍历所有的矩阵，按照要求下载对应的矩阵，然后根据组号重命名
 for matrix_result in result:

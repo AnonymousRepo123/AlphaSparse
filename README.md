@@ -2,6 +2,8 @@
 
 AlphaSparse is a superset of traditional auto-tuners that goes beyond the scope of existing human-designed format(s) and implementation(s). It automatically creates novel machine-designed formats and SpMV kernel implementations entirely from the knowledge of input sparsity patterns and hardware architectures.
 
+The SC'22 paper: https://dl.acm.org/doi/abs/10.5555/3571885.3571972
+
 ## Hardware Configurations
 
 - We have tested on NVIDIA RTX 2080 and A100. Generally, AlphaSparse can support all up-to-date NVIDIA GPUs.

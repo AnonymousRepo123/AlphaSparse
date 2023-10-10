@@ -1,3 +1,5 @@
+Please go to https://github.com/duzhen1996/AlphaSparse
+
 # AlphaSparse
 
 AlphaSparse is a superset of traditional auto-tuners that goes beyond the scope of existing human-designed format(s) and implementation(s). It automatically creates novel machine-designed formats and SpMV kernel implementations entirely from the knowledge of input sparsity patterns and hardware architectures.

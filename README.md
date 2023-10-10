@@ -1,4 +1,4 @@
-Please go to https://github.com/duzhen1996/AlphaSparse
+Please go to https://github.com/duzhen1996/AlphaSparse.
 
 # AlphaSparse
 
